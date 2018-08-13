@@ -1,0 +1,19 @@
+patient_id
+
+slope_of_peak_exercise_st_segment     峰值運動ST段的斜率，心電圖讀出表示心臟血流的質量
+thal                                  結果鉈應力試驗測量血液流向心臟的，
+                                      具有可能的值 (normal， fixed_defect， reversible_defect)
+
+resting_blood_pressure                靜息血壓
+chest_pain_type                       胸痛型（4個值）
+num_major_vessels                     由蓬鬆染色的主要容器（0-3）的數量
+fasting_blood_sugar_gt_120_mg_per_dl  空腹血糖> 120 mg / dl
+resting_ekg_results                   靜息心電圖結果（值0,1,2）
+serum_cholesterol_mg_per_dl           血清膽汁淤積，mg / dl
+oldpeak_eq_st_depression              oldpeak = 運動引起的ST段壓力相對於休息，是心電圖異常的一種衡量標準
+sex                                   性別 (0女性，1男性)
+age                                   年齡
+max_heart_rate_achieved               達到的最大心率（每分鐘節拍）
+exercise_induced_angina               運動引起的胸痛（0：假，1：真）
+
+heart_disease_present                 (0 代表沒有心髒病)(1 代表心髒病存在)
